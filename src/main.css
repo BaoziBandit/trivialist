@@ -1,0 +1,10 @@
+:root {
+  background-color: #E9ECEF;
+  color: #343A40
+}
+
+body{
+  padding: 1rem;
+  max-width: 80svh;
+  margin: 0 auto;  
+}
