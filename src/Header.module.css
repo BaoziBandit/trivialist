@@ -3,11 +3,6 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  border-style: solid;
-  border-color: #6C757D;
-  border-width: 2px;
-  border-bottom: none;
-  border-radius: .5rem .5rem 0 0;
 }
 .svg-icon{
   fill: #212529;
